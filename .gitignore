@@ -1,3 +1,5 @@
 *.pyc
 caffe_converter
+.ipynb_checkpoints
+
 .idea
