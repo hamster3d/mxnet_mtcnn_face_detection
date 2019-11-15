@@ -530,4 +530,3 @@ class MtcnnDetector(object):
             crop_imgs.append(chips)
 
         return crop_imgs
-
